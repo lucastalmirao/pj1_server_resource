@@ -1,0 +1,15 @@
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\bin\Debug\net6.0\ServerResource.exe
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\bin\Debug\net6.0\ServerResource.deps.json
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\bin\Debug\net6.0\ServerResource.runtimeconfig.json
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\bin\Debug\net6.0\ServerResource.dll
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\bin\Debug\net6.0\ServerResource.pdb
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.csproj.AssemblyReference.cache
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.AssemblyInfoInputs.cache
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.AssemblyInfo.cs
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.dll
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\refint\ServerResource.dll
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.pdb
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ServerResource.genruntimeconfig.cache
+C:\Users\lucas\Source\Repos\pj1_server_resource\ServerResource\obj\Debug\net6.0\ref\ServerResource.dll
